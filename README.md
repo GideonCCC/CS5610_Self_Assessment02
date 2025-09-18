@@ -29,6 +29,8 @@ cd project
 python3 -m http.server 8080
 Then open http://localhost:8080.
 
+## 🌐 Live Demo
+👉 [View the Website on GitHub Pages](https://github.com/GideonCCC/CS5610_Self_Assessment02.git)  
 Demo Preview
 Main page: Shows header, sample intro text, and Airbnb listings in a grid.
 Cards: Each includes listing image, title, description, price, amenities, host details.
