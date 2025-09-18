@@ -18,6 +18,7 @@ Features
 
 How to Run
 Because fetch() does not work with file://, you must run the project on a local web server:
+
 Option 1: VS Code Live Server
 Install the Live Server extension.
 Right-click index.html → “Open with Live Server”.
